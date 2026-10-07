@@ -57,15 +57,15 @@
 
 <!-- CHECKSUMS:START -->
 `bqops-1.0.0-rc.4-setup-x64.exe`  
-`g++j3j/PVhIPnmSRqbScIBMxNGqPWPBBcwCrbdoN/k5EZmfDKS8cfU4ROI6Vqm6Rpi4bSRTUwOzTII7rFKnkUA==`
+`rElZIHkwmT8synG3zcJog6zHLrC4pouN1EX+vVWwxgw6c7eNuoSMtIXflBFftaASCVP4Cl4cDjTABJ3TUaOpKA==`
 `BqOps-1.0.0-rc.4-mac.zip`  
-`RQJJnGxeMbv5/SnPJIwrUe4ICieyCxdsggM3fZoxEEiHantjxi2WOBouOC4MUvmFa3FS2sUcHOIJPGC/gXZ7Mw==`
+`0uXAAyKrCM+hBCLRefXDskbydT+tjdG4FjPKR48glZqfMti0+qWYyfFTGj4NB4XqH4tCo9N0E6cZzMvqWuYFlw==`
 `BqOps-1.0.0-rc.4-arm64-mac.zip`  
-`1DDEY+bonWD+JvFm4g2maYGtjQvVmEdT6iu3kdVVFTEy4t3+sRKLfWLPQGvtre7dIwi5LDC7vhObSrTEWAvBZw==`
+`6KsiYAEv8PTH23Ylr7N05lmBC8Sq4R+//j+bNect9+/v2GBCu7g3M2TMvVCezo4ikk2Q8uoOzDrs2wv/jixKTw==`
 `bqops-1.0.0-rc.4-macos-x64.dmg`  
-`vaDmk2QOaUcXUw/4q0catnp2vpgWtZKb/XmjYl1LbSVoqyEE6CKex9lC3WSh8UjRP8N+nYUY48JJoI/B5icTVQ==`
+`kIbyCfQZT5bXTTimFQUg2I7hgQ4pDxtzh+EAzGopI5aB+yb+Ghpqld4rsC982ppdtPnGg9hHCaDWxHFGSYH/Jg==`
 `bqops-1.0.0-rc.4-macos-arm64.dmg`  
-`J46hm1jQKZ/7m2lhFKQl9fxp+yLDMhsAikgX0YPozJu1f2/J9t+Kv1oKCqX+bL5bDE7iWbo7ewkniJ5/nrygTw==`
+`XJuKiJin3/IcqAIFd4KdctCAjdDhWkwNw1PVguNQuBHv8AlCBX39HgGyaQ/rl+XxxBaTGSOHo/yxRmmy7LU+cg==`
 `bqops-1.0.0-rc.4-linux-amd64.deb`  
 `g63LCAm+eYQ8Esg0zW9OUxNGhD9aINHnuZcy2Ou+A2yU+VktQPM2JYT9eFL2tWfXUZDXfiuEuCuF+glQErhyJg==`
 `bqops-1.0.0-rc.4-linux-x86_64.AppImage`  
